@@ -3,21 +3,16 @@
   "dependencies": {
     "basePackages": {
       "font-awesome": {},
-      "router": {},
       "flatstrap": {},
       "moment": {},
-      "spin": {}
+      "spin": {},
+      "iron-router": {}
     },
     "packages": {
       "font-awesome": {
         "git": "https://github.com/nate-strauser/meteor-font-awesome.git",
         "tag": "v3.2.1",
         "commit": "38bdfff72dfb8857b272f9a9b056045d6a015489"
-      },
-      "router": {
-        "git": "https://github.com/tmeasday/meteor-router.git",
-        "tag": "v0.5.4.1",
-        "commit": "d00e380dda2184b70e909fc4a0fb5358d602c586"
       },
       "flatstrap": {
         "git": "https://github.com/fraherm/flatstrap.git",
@@ -33,6 +28,11 @@
         "git": "https://github.com/SachaG/meteor-spin.git",
         "tag": "v0.2.0",
         "commit": "fd3a2871a69442848b4b4e74f5e1ae28fa4a95a4"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.5.4",
+        "commit": "3e0e22ff85630b7503d0daa1538c6d90abb84020"
       },
       "page-js-ie-support": {
         "git": "https://github.com/tmeasday/meteor-page-js-ie-support.git",

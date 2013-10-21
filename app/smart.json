@@ -1,9 +1,9 @@
 {
   "packages": {
     "font-awesome": {},
-    "router": {},
     "flatstrap": {},
     "moment": {},
-    "spin": {}
+    "spin": {},
+    "iron-router": {}
   }
 }
