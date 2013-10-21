@@ -13,6 +13,6 @@ flatstrap
 font-awesome
 moment
 page-js-ie-support
-router
 spin
 browser-policy-framing
+iron-router
